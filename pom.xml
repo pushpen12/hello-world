@@ -46,9 +46,9 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>Rakhi</id>
-			<name>Rakhi</name>
-			<url>http://localhost:8081/nexus/content/repositories/Rakhi/</url>
+			<id>pushpendra</id>
+			<name>pushpendra</name>
+			<url>http://127.0.0.1:8081/nexus/content/repositories/pushpendra</url>
 		</repository>
 	</distributionManagement>
 	
